@@ -3,4 +3,4 @@ This is my first repository.
 <br>
 Author-Priyanshu Singh (AKTU)
 
-file in master.
+linr in main
